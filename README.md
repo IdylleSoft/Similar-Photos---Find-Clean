@@ -38,7 +38,7 @@ Cleanup is designed to be reassuring:
 - Selecte1d files are checked again before cleanup
 - Removed photos go to the Windows Recycle Bin
 
-Read the full [Privacy Policy](PRIVACY_POLICY.md).
+Read the full [Privacy Policy](https://idyllesoft.github.io/IdylleSoft-Privacy/Similiar_Photos_PRIVACY_POLICY.html).
 
 ## 🚀 Made for everyday photo collections
 
